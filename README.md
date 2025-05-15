@@ -143,7 +143,7 @@ Future enhancements could include integrating more advanced analytics, such as m
 
 ### Prerequisites
 - **PostgreSQL**: Ensure you have PostgreSQL installed for database creation and querying.
-- **Python Notebook**: Required for EDA in ![Preliminary EDA] (E_Commerce_EDA.ipynb)
+- **Python Notebook**: Required for EDA in [Preliminary EDA](E_Commerce_EDA.ipynb)
 - **pgAdmin**: Recommended for managing the PostgreSQL database.
 
 
