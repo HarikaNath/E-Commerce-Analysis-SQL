@@ -45,7 +45,7 @@ Below are the business problems addressed, along with the SQL queries (located i
 1. **Top Selling Products** 🏆  
    - Query the top 10 products by total sales value.
    - **Challenge**: Include product name, total quantity sold, and total sales value.
-   ![Query]![e commerce ](https://github.com/user-attachments/assets/907b8260-986d-433b-b9fd-41e137c0565a)
+    [📄 View Query](Codefiles/Problem_1.sql)
 
 
 2. **Revenue by Category** 💰  
